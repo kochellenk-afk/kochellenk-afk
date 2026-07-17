@@ -26,3 +26,5 @@ Every framework here follows the same philosophy: **systematize the repeatable, 
 - LinkedIn: [linkedin.com/in/ellenkoch](https://www.linkedin.com/in/ellenkoch)
 
 *Note: client work in these repos is anonymized and abstracted into reusable frameworks. The thinking is real; the identifying details are not.*
+
+<!-- profile -->
