@@ -1,6 +1,6 @@
 # Ellen Koch
 
-**Fractional CMO who builds marketing systems, not just marketing.**
+**Fractional CMO who builds marketing systems, and creative marketing.**
 
 20+ years leading growth across gaming, hospitality, fintech, SaaS, homebuilding, and DTC. Las Vegas based. Cornell Master Certificates in AI & Digital Transformation and Big Data & Analytics.
 
