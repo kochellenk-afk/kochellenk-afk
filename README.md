@@ -24,5 +24,6 @@ Every framework here follows the same philosophy: **systematize the repeatable, 
 
 - Portfolio and services: [ellenfreelances.com](https://ellenfreelances.com)
 - LinkedIn: [linkedin.com/in/ellenkoch](https://www.linkedin.com/in/ellenkoch)
+- Notion:   [notion.com/ellenkoch](https://repeated-gibbon-a0c.notion.site/82508a55f467420bace76f253a94be13?v=097d41133b2c4b5fa3f93ed616d034c5&source=copy_link)                     
 
-*Note: client work in these repos is anonymized and abstracted into reusable frameworks. The thinking is real; the identifying details are not.*
+*Note: client work in these repos is anonymized and abstracted into reusable frameworks. The thinking is real; the identifying details are not.* 
